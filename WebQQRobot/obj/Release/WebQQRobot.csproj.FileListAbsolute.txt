@@ -1,0 +1,17 @@
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\WebQQRobot.exe.config
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\WebQQRobot.exe
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\WebQQRobot.pdb
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\Newtonsoft.Json.dll
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\SKCommonLib.dll
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\SKCommonLib.pdb
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.csprojResolveAssemblyReference.cache
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.LoginForm.resources
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.MainForm.resources
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.Properties.Resources.resources
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.csproj.GenerateResource.Cache
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.exe
+D:\Workspace\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.pdb
+D:\Workspace\WebQQRobot\WebQQRobot\bin\Release\MySql.Data.dll
+D:\Workspace\GitHub\WebQQRobot\WebQQRobot\bin\Release\WebQQRobot.exe.config
+D:\Workspace\GitHub\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.exe
+D:\Workspace\GitHub\WebQQRobot\WebQQRobot\obj\Release\WebQQRobot.pdb

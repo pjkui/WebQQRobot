@@ -1,0 +1,4 @@
+D:\Workspace\WebQQRobot\SKCommonLib\bin\Debug\SKCommonLib.dll
+D:\Workspace\WebQQRobot\SKCommonLib\bin\Debug\SKCommonLib.pdb
+D:\Workspace\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.dll
+D:\Workspace\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.pdb

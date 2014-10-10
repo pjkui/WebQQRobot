@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebQQRobot", "WebQQRobot\WebQQRobot.csproj", "{F5DAA58F-0D7D-46F6-B887-EE327DC37AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKCommonLib", "SKCommonLib\SKCommonLib.csproj", "{A7E26FBD-A0AB-4CDE-873B-0BB32A6545F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5DAA58F-0D7D-46F6-B887-EE327DC37AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5DAA58F-0D7D-46F6-B887-EE327DC37AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5DAA58F-0D7D-46F6-B887-EE327DC37AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5DAA58F-0D7D-46F6-B887-EE327DC37AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E26FBD-A0AB-4CDE-873B-0BB32A6545F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E26FBD-A0AB-4CDE-873B-0BB32A6545F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E26FBD-A0AB-4CDE-873B-0BB32A6545F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E26FBD-A0AB-4CDE-873B-0BB32A6545F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
