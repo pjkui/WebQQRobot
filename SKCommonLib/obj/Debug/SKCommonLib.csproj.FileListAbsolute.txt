@@ -2,3 +2,8 @@ D:\Workspace\WebQQRobot\SKCommonLib\bin\Debug\SKCommonLib.dll
 D:\Workspace\WebQQRobot\SKCommonLib\bin\Debug\SKCommonLib.pdb
 D:\Workspace\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.dll
 D:\Workspace\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.pdb
+D:\Workspace\GitHub\WebQQRobot\SKCommonLib\bin\Debug\SKCommonLib.dll
+D:\Workspace\GitHub\WebQQRobot\SKCommonLib\bin\Debug\SKCommonLib.pdb
+D:\Workspace\GitHub\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.csprojResolveAssemblyReference.cache
+D:\Workspace\GitHub\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.dll
+D:\Workspace\GitHub\WebQQRobot\SKCommonLib\obj\Debug\SKCommonLib.pdb

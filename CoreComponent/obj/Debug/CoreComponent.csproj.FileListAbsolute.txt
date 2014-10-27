@@ -1,0 +1,5 @@
+D:\Workspace\GitHub\WebQQRobot\CoreComponent\bin\Debug\CoreComponent.dll
+D:\Workspace\GitHub\WebQQRobot\CoreComponent\bin\Debug\CoreComponent.pdb
+D:\Workspace\GitHub\WebQQRobot\CoreComponent\obj\Debug\CoreComponent.csprojResolveAssemblyReference.cache
+D:\Workspace\GitHub\WebQQRobot\CoreComponent\obj\Debug\CoreComponent.dll
+D:\Workspace\GitHub\WebQQRobot\CoreComponent\obj\Debug\CoreComponent.pdb

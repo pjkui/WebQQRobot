@@ -1,0 +1,12 @@
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\bin\Release\SmartQQRobat.exe
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\bin\Release\SmartQQRobat.pdb
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat.csprojResolveAssemblyReference.cache
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\MainWindow.baml
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\MainWindow.g.cs
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\App.g.cs
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat_MarkupCompile.cache
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat.g.resources
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat.Properties.Resources.resources
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat.csproj.GenerateResource.Cache
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat.exe
+D:\Workspace\GitHub\WebQQRobot\SmartQQRobat\obj\Release\SmartQQRobat.pdb
