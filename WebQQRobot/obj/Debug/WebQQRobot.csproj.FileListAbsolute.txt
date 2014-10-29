@@ -26,3 +26,16 @@ D:\Workspace\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.Properties.Resour
 D:\Workspace\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.csproj.GenerateResource.Cache
 D:\Workspace\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.exe
 D:\Workspace\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.pdb
+H:\GitHub\WebQQRobot\WebQQRobot\bin\Debug\WebQQRobot.exe.config
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.exe
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.pdb
+H:\GitHub\WebQQRobot\WebQQRobot\bin\Debug\WebQQRobot.exe
+H:\GitHub\WebQQRobot\WebQQRobot\bin\Debug\WebQQRobot.pdb
+H:\GitHub\WebQQRobot\WebQQRobot\bin\Debug\Newtonsoft.Json.dll
+H:\GitHub\WebQQRobot\WebQQRobot\bin\Debug\SKCommonLib.dll
+H:\GitHub\WebQQRobot\WebQQRobot\bin\Debug\SKCommonLib.pdb
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.csprojResolveAssemblyReference.cache
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.LoginForm.resources
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.MainForm.resources
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.Properties.Resources.resources
+H:\GitHub\WebQQRobot\WebQQRobot\obj\Debug\WebQQRobot.csproj.GenerateResource.Cache

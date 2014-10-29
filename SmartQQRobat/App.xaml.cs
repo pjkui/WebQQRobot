@@ -12,5 +12,19 @@ namespace SmartQQRobat
     /// </summary>
     public partial class App : Application
     {
+        private void Application_Startup(object sender, StartupEventArgs e)
+        {
+            Application.Current.ShutdownMode = System.Windows.ShutdownMode.OnExplicitShutdown;
+            LoginForm Login = new LoginForm();
+            if (Login.ShowDialog() == true)
+            {
+                Application.Current.ShutdownMode = System.Windows.ShutdownMode.OnMainWindowClose;
+                Login.Close();
+            }
+            else
+            {
+                this.Shutdown();
+            }
+        }
     }
 }

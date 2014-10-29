@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartQQRobat", "SmartQQRoba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreComponent", "CoreComponent\CoreComponent.csproj", "{41B5750F-11A9-4483-A223-E5843FAA2AE6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOLRank", "LOLRank\LOLRank.csproj", "{8553F67E-5227-49A6-A7A0-FBA444DACE5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginInterfece", "PluginInterfece\PluginInterfece.csproj", "{6EC8BCAA-2522-4838-922E-AB88E4B60D91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{41B5750F-11A9-4483-A223-E5843FAA2AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41B5750F-11A9-4483-A223-E5843FAA2AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41B5750F-11A9-4483-A223-E5843FAA2AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8553F67E-5227-49A6-A7A0-FBA444DACE5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8553F67E-5227-49A6-A7A0-FBA444DACE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8553F67E-5227-49A6-A7A0-FBA444DACE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8553F67E-5227-49A6-A7A0-FBA444DACE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC8BCAA-2522-4838-922E-AB88E4B60D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC8BCAA-2522-4838-922E-AB88E4B60D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC8BCAA-2522-4838-922E-AB88E4B60D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC8BCAA-2522-4838-922E-AB88E4B60D91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

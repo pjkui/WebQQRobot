@@ -30,8 +30,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,7 +47,39 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Core.cs" />
+    <Compile Include="DataModel\QQGroupList.cs" />
+    <Compile Include="DataModel\QQGroupList.Gnamelist2.cs" />
+    <Compile Include="DataModel\QQGroupList.Result2.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Card.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Ginfo2.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Member.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Minfo2.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Result2.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Stat.cs" />
+    <Compile Include="DataModel\QQGroupMemberList.Vipinfo2.cs" />
+    <Compile Include="DataModel\QQMemberList.Card.cs" />
+    <Compile Include="DataModel\QQMemberList.cs" />
+    <Compile Include="DataModel\QQMemberList.Ginfo2.cs" />
+    <Compile Include="DataModel\QQMemberList.Member.cs" />
+    <Compile Include="DataModel\QQMemberList.Minfo2.cs" />
+    <Compile Include="DataModel\QQMemberList.Result2.cs" />
+    <Compile Include="DataModel\QQMemberList.Stat.cs" />
+    <Compile Include="DataModel\QQMemberList.Vipinfo2.cs" />
+    <Compile Include="DataModel\QQMessage.cs" />
+    <Compile Include="DataModel\QQMessage.Result2.cs" />
+    <Compile Include="DataModel\QQMessage.Value2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PluginInterfece\PluginInterfece.csproj">
+      <Project>{6ec8bcaa-2522-4838-922e-ab88e4b60d91}</Project>
+      <Name>PluginInterfece</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SKCommonLib\SKCommonLib.csproj">
+      <Project>{a7e26fbd-a0ab-4cde-873b-0bb32a6545f3}</Project>
+      <Name>SKCommonLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

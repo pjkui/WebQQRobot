@@ -83,7 +83,7 @@ namespace WebQQRobot
             {
                 txtEdit.Text = lstMessage.Items[lstMessage.SelectedIndex].ToString();
             }
-            catch(Exception err)
+            catch(Exception)
             {
 
             }
