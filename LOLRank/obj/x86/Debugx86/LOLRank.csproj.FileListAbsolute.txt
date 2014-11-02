@@ -1,0 +1,7 @@
+H:\GitHub\WebQQRobot\LOLRank\bin\x86\Debugx86\LOLRank.dll
+H:\GitHub\WebQQRobot\LOLRank\bin\x86\Debugx86\LOLRank.pdb
+H:\GitHub\WebQQRobot\LOLRank\bin\x86\Debugx86\PluginInterfece.dll
+H:\GitHub\WebQQRobot\LOLRank\bin\x86\Debugx86\PluginInterfece.pdb
+H:\GitHub\WebQQRobot\LOLRank\obj\x86\Debugx86\LOLRank.csprojResolveAssemblyReference.cache
+H:\GitHub\WebQQRobot\LOLRank\obj\x86\Debugx86\LOLRank.dll
+H:\GitHub\WebQQRobot\LOLRank\obj\x86\Debugx86\LOLRank.pdb

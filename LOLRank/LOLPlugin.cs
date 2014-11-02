@@ -15,6 +15,8 @@ namespace LOLRank
             return info;
         }
 
+        public static int Count = 0;
+
         /// <summary>
         /// 消息回调
         /// </summary>
@@ -22,7 +24,8 @@ namespace LOLRank
         /// <param name="msg">字符串数组， msg[0]消息类型， msg[1]消息内容</param>
         public void MessageCallback(PostDelegate func, string[] msg)
         {
-            func(msg[1]);
+            ++Count;
+            func(msg[1] + " " + Count);
         }
 
     }

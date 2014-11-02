@@ -1,0 +1,10 @@
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\CoreComponent.dll
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\CoreComponent.pdb
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\Newtonsoft.Json.dll
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\PluginInterfece.dll
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\SKCommonLib.dll
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\PluginInterfece.pdb
+H:\GitHub\WebQQRobot\CoreComponent\bin\x86\Debugx86\SKCommonLib.pdb
+H:\GitHub\WebQQRobot\CoreComponent\obj\x86\Debugx86\CoreComponent.csprojResolveAssemblyReference.cache
+H:\GitHub\WebQQRobot\CoreComponent\obj\x86\Debugx86\CoreComponent.dll
+H:\GitHub\WebQQRobot\CoreComponent\obj\x86\Debugx86\CoreComponent.pdb

@@ -75,7 +75,6 @@ namespace SmartQQRobat
 
                     MessageBox.Show("登录失败！");
                     lblInfo.Content = "";
-
                 }
             }
             else
@@ -126,6 +125,11 @@ namespace SmartQQRobat
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             btnLogin_Click(sender, null);
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // SQLHelper.ExecSql("INSERT INTO question_answer(question, answer, insert_datetime) VALUES('女仆', '主人~人家在呢', '" + DateTime.Now + "')");
         }
     }
 }

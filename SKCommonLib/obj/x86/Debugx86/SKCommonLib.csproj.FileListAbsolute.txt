@@ -1,0 +1,4 @@
+H:\GitHub\WebQQRobot\SKCommonLib\bin\x86\Debugx86\SKCommonLib.dll
+H:\GitHub\WebQQRobot\SKCommonLib\bin\x86\Debugx86\SKCommonLib.pdb
+H:\GitHub\WebQQRobot\SKCommonLib\obj\x86\Debugx86\SKCommonLib.dll
+H:\GitHub\WebQQRobot\SKCommonLib\obj\x86\Debugx86\SKCommonLib.pdb

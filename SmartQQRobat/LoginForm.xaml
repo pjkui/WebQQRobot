@@ -3,12 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="登录" Height="250" Width="400" Background="White" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Loaded="Window_Loaded">
     <Grid x:Name="MainContent">
-        <TextBlock HorizontalAlignment="Left" Margin="49,131,0,0" TextWrapping="Wrap" Text="密            码" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="87,131,0,0" TextWrapping="Wrap" Text="密  码" VerticalAlignment="Top"/>
         <TextBox x:Name="txtQQCode" HorizontalAlignment="Left" Height="23" Margin="126,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="156" Text="1919192334"/>
         <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Height="23" Margin="126,127,0,0" VerticalAlignment="Top" Width="156" Password="wsc.blue6358"/>
         <Button x:Name="btnLogin" Content="确定" HorizontalAlignment="Left" Margin="126,212,0,0" VerticalAlignment="Top" Width="75" Click="btnLogin_Click"/>
         <Button x:Name="btnExit" Content="退出" HorizontalAlignment="Left" Margin="207,212,0,0" VerticalAlignment="Top" Width="75" Click="btnExit_Click"/>
-        <TextBlock HorizontalAlignment="Left" Margin="50,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="用    户    名"/>
+        <TextBlock HorizontalAlignment="Left" Margin="87,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="QQ号"/>
         <Image x:Name="pbCheckCode" HorizontalAlignment="Left" Height="52" Margin="10,155,0,0" VerticalAlignment="Top" Width="106" Stretch="Fill" MouseLeftButtonDown="pbCheckCode_MouseLeftButtonDown"/>
         <TextBox x:Name="txtVerCode" HorizontalAlignment="Left" Height="23" Margin="126,155,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="64" Visibility="Hidden"/>
         <CheckBox x:Name="cbbRemember" Content="记住密码" HorizontalAlignment="Left" Margin="214,159,0,0" VerticalAlignment="Top" IsChecked="True"/>

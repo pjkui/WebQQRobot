@@ -1,0 +1,5 @@
+H:\GitHub\WebQQRobot\WebQQRobot\obj\x86\Debugx86\WebQQRobot.csprojResolveAssemblyReference.cache
+H:\GitHub\WebQQRobot\WebQQRobot\obj\x86\Debugx86\WebQQRobot.LoginForm.resources
+H:\GitHub\WebQQRobot\WebQQRobot\obj\x86\Debugx86\WebQQRobot.MainForm.resources
+H:\GitHub\WebQQRobot\WebQQRobot\obj\x86\Debugx86\WebQQRobot.Properties.Resources.resources
+H:\GitHub\WebQQRobot\WebQQRobot\obj\x86\Debugx86\WebQQRobot.csproj.GenerateResource.Cache

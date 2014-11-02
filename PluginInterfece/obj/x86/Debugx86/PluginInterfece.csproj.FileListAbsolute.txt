@@ -1,0 +1,4 @@
+H:\GitHub\WebQQRobot\PluginInterfece\bin\x86\Debugx86\PluginInterfece.dll
+H:\GitHub\WebQQRobot\PluginInterfece\bin\x86\Debugx86\PluginInterfece.pdb
+H:\GitHub\WebQQRobot\PluginInterfece\obj\x86\Debugx86\PluginInterfece.dll
+H:\GitHub\WebQQRobot\PluginInterfece\obj\x86\Debugx86\PluginInterfece.pdb

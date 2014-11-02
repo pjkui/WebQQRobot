@@ -8,10 +8,8 @@ using Newtonsoft.Json.Linq;
 
 namespace WebQQRobot.DataModel
 {
-
     public partial class QQGroupList
     {
-
         [JsonProperty("retcode")]
         public int Retcode;
 
